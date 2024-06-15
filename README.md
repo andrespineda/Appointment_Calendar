@@ -1,2 +1,2 @@
-# Appointment_Calendar
-A Flutter appointment calendar component
+# appointment_calendar
+ 
